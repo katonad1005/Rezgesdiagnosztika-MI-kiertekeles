@@ -1,0 +1,59 @@
+{
+  "valasztott": "RandomForest",
+  "belso_cv": {
+    "RandomForest": 1.0,
+    "SVM": 0.8541666666666666
+  },
+  "teszt": {
+    "RandomForest": {
+      "accuracy": 1.0,
+      "balanced_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "TN": 1.0,
+      "FP": 0.0,
+      "FN": 0.0,
+      "TP": 4.0
+    },
+    "SVM": {
+      "accuracy": 1.0,
+      "balanced_accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "TN": 1.0,
+      "FP": 0.0,
+      "FN": 0.0,
+      "TP": 4.0
+    }
+  },
+  "tanito_alkalmak": [
+    "8f300b023fc57dbbc24dadba",
+    "4758d42f86f80803a1b75c8a",
+    "1ac5ee48cf65b8ce6cfacd3d",
+    "bb1563f6fd248cecb7ede447",
+    "25115c9aacb278138a093cf6",
+    "9902262d70ca3a58af270972",
+    "3b153b8bc161ad1365e6cf04",
+    "8229abc21a59e821aeff5dac",
+    "57de67d9def7034b9d5c93c9",
+    "79ca2840cb9427538771a0d5",
+    "1794962b40bbab7b961a4d3d",
+    "60359c4309be9cc223dcb75f",
+    "45fc17e7121d0f3d7587007c",
+    "303e5a94f1f246024cff4525",
+    "faa8dd51e1298c68b65c0949",
+    "aee647e157f17a6107eaeb31",
+    "4b7de4cee087667cac450ba6",
+    "56bfc7085b21330cc7e50868",
+    "9da3dc3affb83ce2e9cc7aba"
+  ],
+  "teszt_alkalmak": [
+    "e5cb92f9af6fa4c5cfda220c",
+    "a5f4ff07752c6c23011a6272",
+    "74eb0a6941e77aa1d4e8ffc8",
+    "75905db2186fa720e8c7cdce",
+    "6a57688164c14b7bb925aa55"
+  ]
+}

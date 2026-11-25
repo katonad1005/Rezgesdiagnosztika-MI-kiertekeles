@@ -1,0 +1,135 @@
+Rezgésdiagnosztikai mérések kiértékelése Pythonban
+
+A program az SKF Analyst rendszerből exportált amplitúdóspektrumokat dolgozza fel.
+A kész légkezelőmodell egy gép egy mérési alkalmához ad állapotbecslést. Ha egy
+mérési alkalomhoz a motor és a ventilátor több spektruma tartozik, azokból a
+program közös jellemzőket számít. A kész modell használatához elegendő a mérés.
+Igazolt állapotcímkékre a saját modell tanításához van szükség.
+
+1. Telepítés Windows alatt
+
+Nyiss Windows-parancssort (cmd) a projekt főmappájában, ahol a requirements.txt
+és az src mappa található. Első használatkor futtasd sorban a három parancsot.
+
+    py -3.12 -m venv .venv
+    .venv\Scripts\activate.bat
+    python -m pip install -r requirements.txt
+
+Új parancssor megnyitásakor a második paranccsal aktiváld ismét a környezetet.
+Az alábbi parancsokat is a projekt főmappájából indítsd.
+
+2. Légkezelő állapotbecslése a kész modellel
+
+A program a legkezelo_modell\alkalmi_modell.joblib fájlból tölti be a modellt.
+
+    src\legkezelo_proba.py
+
+A megnyíló ablakban válaszd ki a légkezelő egy vagy több amplitúdóspektrum-CSV-jét.
+Az eredményhez nyisd meg az outputs\legkezelo_proba alatt létrehozott futásmappát,
+azon belül az alkalmi_becslesek.csv fájlt. Minden sor egy gép egy mérési alkalma.
+
+A gep oszlop után a becsles mezőben olvasható a modell döntése. Értéke hibas,
+megfelelo vagy nem_ertekelheto. Hibás becslésnél az skf_megfigyelesek mezőben
+jelennek meg az SKF-szabályok alapján észlelt tünetek, ha volt ilyen jelzés.
+A mező megfelelő vagy nem értékelhető alkalomnál üres. Az ugyanitt található
+alkalmak.csv minden alkalomhoz megőrzi az eredeti SKF-megfigyeléseket.
+
+3. Önálló SKF-kiértékelés és spektrumábrák
+
+Az SKF-szabályok önálló futtatásához helyezd az értékelendő exportot a data
+mappába. A program megkeresi a támogatott spektrumfájlokat.
+
+    python src\skf_kiertekeles.py
+
+Az outputs\skf_kiertekeles új futásmappájában az alkalmi_kiertekeles.csv mutatja
+a vizsgált hibajelenségeket. Az egyes jelzések indoklását ugyanott, a
+szabalyonkenti_eredmenyek.csv fájlban találod.
+
+Ha egy mérés spektrumábráit szeretnéd látni, helyezd az amplitúdóspektrum-CSV-t
+a data mappába, majd indítsd el a beolvasót. Több fájlnál válaszd ki a kívántat.
+
+    python src\csv_beolvasas.py
+
+Az ábrák és a jellemzok.csv a parancssorban kiírt mappába kerülnek.
+Ha csak a számított értékekre van szükséged, így indítsd a feldolgozást:
+
+    python src\csv_beolvasas.py --csak-jellemzok
+
+4. Saját modell tanítása és használata
+
+A légkezelőmodell tanítása előtt készítsd elő az igazolt mérési alkalmakat az
+5. pont szerint. A tanítást ezután a következő paranccsal indíthatod.
+
+    python src\alkalmi_mi.py tanitas --geptipus legkezelo
+
+A program gépenként különíti el az adatokat. Ehhez a hibás és a megfelelő
+állapothoz is legalább három külön gép és érvényes felosztás szükséges.
+A véletlen erdő és az SVM közül a belső ellenőrzés eredménye alapján választ.
+A kiírt futásmappában az alkalmi_modell.joblib a mentett modell, a teszt.csv
+pedig az elkülönített gépek igazolt állapotát és a két modell becslését mutatja.
+
+Új méréshez előbb importáld az exportot a becsléshez használt mappába. A set /p
+sorok futtatásakor a saját fájljaid teljes útvonalát add meg idézőjelek nélkül.
+
+    set /p "UJ_CSV=Az uj meres CSV-fajljanak utvonala: "
+    set /p "MODELL=A mentett alkalmi_modell.joblib utvonala: "
+    python src\alkalmi_mi.py import "%UJ_CSV%" --mappa outputs\uj_meres
+    python src\alkalmi_mi.py becsles --mappa outputs\uj_meres --modell "%MODELL%"
+
+Az eredmény az outputs\uj_meres\alkalmi_becslesek.csv fájlba kerül. Ha ugyanabba
+a mappába további alkalmakat importálsz, a következő becslés mindet értékeli.
+
+Egyedi spektrumokra külön modell is tanítható. A spektrumonkénti címkézés után
+a tanito_adatok.py paranccsal áttekintheted a tanítható méréseket. A mi_tanitas.py
+önállóan is összegyűjti a tanítási adatokat. A mentett spektrumszintű modellel
+egy új mérés jellemzok.csv fájlját adhatod át becslésre.
+
+    python src\tanito_adatok.py
+    python src\mi_tanitas.py
+    set /p "JELLEMZOK=A kiertekelendo jellemzok.csv utvonala: "
+    python src\mi_becsles.py "%JELLEMZOK%"
+
+5. A saját mérések beolvasása és címkézése
+
+Mérési alkalmankénti címkézés a légkezelőmodellhez
+
+    1. Az SKF-exportból az amplitúdóspektrumokat tartalmazó CSV-t válaszd ki.
+       Új gépnél a projekt főmappájában lévő alkalmi_gepek.csv fájlban rendeld
+       a mérési pont szülőútvonalát (pont_szulo) a fizikai géphez (gep) és
+       típusához (geptipus). Légkezelőnél a típus értéke legkezelo.
+       Ha a motor és a ventilátor külön útvonalon szerepel, de közös gépként
+       értékeled őket, mindkét útvonalhoz ugyanazt a gépazonosítót rendeld.
+
+    2. Egyeztesd a frekvenciaskálát az SKF mérési beállításaival. Az alapértékek
+       a skf_beallitasok.json, a pontonkénti beállítások a skf_pontbeallitasok.csv
+       fájlban találhatók. Ezután olvasd be a spektrumexportot.
+
+       set /p "MERES_CSV=Az SKF-spektrum CSV teljes utvonala: "
+       python src\alkalmi_mi.py import "%MERES_CSV%"
+
+    3. Nyisd meg az outputs\alkalmi_mi\alkalmi_cimkek.csv fájlt. A gép és az
+       időpont alapján keresd meg a bejárást. Egy sorhoz egy teljes mérési
+       alkalom állapota tartozik. Az alkalom_id kapcsolja össze a címkét az
+       alkalmak.csv sorával, ezért ezt az azonosítót hagyd változatlanul.
+
+    4. Az allapot mezőbe igazolt hibánál hibas, igazolt megfelelő működésnél
+       megfelelo kerüljön. A bizonyitek mezőben add meg az adott bejárásra
+       vonatkozó szakértői értékelés vagy karbantartási feljegyzés hivatkozását.
+       Ha nincs igazolás, az allapot maradjon ismeretlen. Ezeket az alkalmakat
+       a program kihagyja a tanításból. A CSV-t pontosvesszős elválasztással,
+       UTF-8 kódolással mentsd, majd indíthatod a 4. pont szerinti tanítást.
+
+További bejárások ugyanabba a mappába importálhatók a korábbi címkék megtartásával.
+Ha két export részben ugyanazokat a spektrumokat tartalmazza, és az alkalmak
+összetétele eltér, az érintett exportokat egy importparancsban add meg, útvonalanként
+külön idézőjelek között. A --mappa kapcsolóval válassz új célmappát. Ebben
+ellenőrizd a címkéket, majd tanításkor is ugyanezt a mappát add meg a --mappa után.
+
+Címkézés egyedi spektrumokhoz
+
+A 3. pontban szereplő csv_beolvasas.py a saját futásmappájában hozza létre a
+cimkek.csv fájlt. Itt egy sor egyetlen mérési pont egyetlen spektrumához tartozik.
+Akkor adj meg hibas vagy megfelelo állapotot, ha az igazolás erre a mérésre is
+vonatkozik. Az igazolas mezőbe ilyenkor igazolt kerül. Töltsd ki a bizonyitek_forras
+és a cimkezo mezőt is. Ha csak a teljes gép állapota ismert, használd a fenti
+alkalmankénti címkézést.

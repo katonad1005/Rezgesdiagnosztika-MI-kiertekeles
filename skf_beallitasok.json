@@ -1,0 +1,2595 @@
+{
+  "verzio": 1,
+  "alap": {
+    "frekvenciaegyseg": null,
+    "kezdo_frekvencia_hz": null,
+    "vegpontok": "ket_vegpont",
+    "skala_ellenorzott": false,
+    "fordulat_igazolt": false,
+    "fordulati_frekvencia_hz": null,
+    "fordulat_forrasa": "",
+    "meresi_irany": "auto",
+    "gep": "",
+    "lapatszam": null,
+    "fogszam": null,
+    "villanymotor": null,
+    "tapfrekvencia_hz": null,
+    "polusszam": null,
+    "csapagy_tipus": "",
+    "csapagy_adatok_forrasa": "",
+    "BPFO_order": null,
+    "BPFI_order": null,
+    "BSF_order": null,
+    "FTF_order": null,
+    "tengelykapcsolo": null
+  },
+  "pont_profilok": [
+    {
+      "nev": "Analyst Setup – 6C-AH-5370 MOTOR-VT, 0–1600 Hz, 1600 vonal",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._4.EM._KLÍMÁK\\4.EM_Csom.Mennyezet\\6C-AH-5370\\6C-AH-5370\\6C-AH-5370 -MOTOR-VT"
+      ],
+      "ervenyes_kezdete": "2026-11-19 09:10:58",
+      "ervenyes_vege": "2026-11-19 09:10:58",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Analyst Setup – 6C-AH-5370 MOTOR-VS, 0–160 Hz, 1600 vonal",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._4.EM._KLÍMÁK\\4.EM_Csom.Mennyezet\\6C-AH-5370\\6C-AH-5370\\6C-AH-5370 -MOTOR-VS"
+      ],
+      "ervenyes_kezdete": "2026-11-19 09:11:20",
+      "ervenyes_vege": "2026-11-19 09:11:20",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Analyst Setup – 6C-AH-5370 MOTOR-AC, 0–6400 Hz, 6400 vonal",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._4.EM._KLÍMÁK\\4.EM_Csom.Mennyezet\\6C-AH-5370\\6C-AH-5370\\6C-AH-5370 -MOTOR-AC"
+      ],
+      "ervenyes_kezdete": "2026-11-19 09:11:27",
+      "ervenyes_vege": "2026-11-19 09:11:27",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Analyst Setup – 6C-AH-5370 MOTOR-E3, 0–1000 Hz, 1600 vonal",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._4.EM._KLÍMÁK\\4.EM_Csom.Mennyezet\\6C-AH-5370\\6C-AH-5370\\6C-AH-5370 -MOTOR-E3"
+      ],
+      "ervenyes_kezdete": "2026-11-19 09:11:36",
+      "ervenyes_vege": "2026-11-19 09:11:36",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Közös légkezelő-sablon – VT, 0–1600 Hz, 1600 vonal",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._FSZ_KLÍMÁK\\FSZ_Raktár Plafon\\AH-55-58\\6R-AH-5558\\6R-AH-5558 -MOTOR-VT"
+      ],
+      "ervenyes_kezdete": "2026-11-19 10:20:10",
+      "ervenyes_vege": "2026-11-19 10:20:10",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Közös légkezelő-sablon – VS, 0–160 Hz, 1600 vonal",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._FSZ_KLÍMÁK\\FSZ_Raktár Plafon\\AH-55-58\\6R-AH-5558\\6R-AH-5558 -MOTOR-VS"
+      ],
+      "ervenyes_kezdete": "2026-11-19 10:20:32",
+      "ervenyes_vege": "2026-11-19 10:20:32",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Közös légkezelő-sablon – AC, 0–6400 Hz, 6400 vonal",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._FSZ_KLÍMÁK\\FSZ_Raktár Plafon\\AH-55-58\\6R-AH-5558\\6R-AH-5558 -MOTOR-AC"
+      ],
+      "ervenyes_kezdete": "2026-11-19 10:20:40",
+      "ervenyes_vege": "2026-11-19 10:20:40",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Közös légkezelő-sablon – E3, 0–1000 Hz, 1600 vonal",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._FSZ_KLÍMÁK\\FSZ_Raktár Plafon\\AH-55-58\\6R-AH-5558\\6R-AH-5558 -MOTOR-E3"
+      ],
+      "ervenyes_kezdete": "2026-11-19 10:20:49",
+      "ervenyes_vege": "2026-11-19 10:20:49",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Közös légkezelő-sablon – VT, 0–1600 Hz, 1600 vonal",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._FSZ_KLÍMÁK\\FSZ_Raktár Plafon\\AH-55-59\\6R-AH-5559\\6R-AH-5559 -MOTOR-VT"
+      ],
+      "ervenyes_kezdete": "2026-11-19 10:23:58",
+      "ervenyes_vege": "2026-11-19 10:23:58",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Közös légkezelő-sablon – VS, 0–160 Hz, 1600 vonal",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._FSZ_KLÍMÁK\\FSZ_Raktár Plafon\\AH-55-59\\6R-AH-5559\\6R-AH-5559 -MOTOR-VS"
+      ],
+      "ervenyes_kezdete": "2026-11-19 10:24:22",
+      "ervenyes_vege": "2026-11-19 10:24:22",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Közös légkezelő-sablon – AC, 0–6400 Hz, 6400 vonal",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._FSZ_KLÍMÁK\\FSZ_Raktár Plafon\\AH-55-59\\6R-AH-5559\\6R-AH-5559 -MOTOR-AC"
+      ],
+      "ervenyes_kezdete": "2026-11-19 10:24:32",
+      "ervenyes_vege": "2026-11-19 10:24:32",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Közös légkezelő-sablon – E3, 0–1000 Hz, 1600 vonal",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._FSZ_KLÍMÁK\\FSZ_Raktár Plafon\\AH-55-59\\6R-AH-5559\\6R-AH-5559 -MOTOR-E3"
+      ],
+      "ervenyes_kezdete": "2026-11-19 10:24:43",
+      "ervenyes_vege": "2026-11-19 10:24:43",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Közös légkezelő-sablon – VT, 0–1600 Hz, 1600 vonal",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._PINCE_KLÍMÁK\\RGK6._PINCE_GÉPHÁZ\\AH-57-03\\RGK6_AH5703\\RGK6_AH5703_MD-HO-VT"
+      ],
+      "ervenyes_kezdete": "2026-09-16 09:55:49",
+      "ervenyes_vege": "2026-09-16 09:55:49",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Közös légkezelő-sablon – VS, 0–160 Hz, 1600 vonal",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._PINCE_KLÍMÁK\\RGK6._PINCE_GÉPHÁZ\\AH-57-03\\RGK6_AH5703\\RGK6_AH5703_MD-HO-VS"
+      ],
+      "ervenyes_kezdete": "2026-09-16 09:56:11",
+      "ervenyes_vege": "2026-09-16 09:56:11",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Közös légkezelő-sablon – AC, 0–6400 Hz, 6400 vonal",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._PINCE_KLÍMÁK\\RGK6._PINCE_GÉPHÁZ\\AH-57-03\\RGK6_AH5703\\RGK6_AH5703_MD-HO-AC"
+      ],
+      "ervenyes_kezdete": "2026-09-16 09:56:19",
+      "ervenyes_vege": "2026-09-16 09:56:19",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Közös légkezelő-sablon – E3, 0–1000 Hz, 1600 vonal",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._PINCE_KLÍMÁK\\RGK6._PINCE_GÉPHÁZ\\AH-57-03\\RGK6_AH5703\\RGK6_AH5703_MD-HO-E3"
+      ],
+      "ervenyes_kezdete": "2026-09-16 09:56:27",
+      "ervenyes_vege": "2026-09-16 09:56:27",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Közös légkezelő-sablon – VT, 0–1600 Hz, 1600 vonal",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._PINCE_KLÍMÁK\\RGK6._PINCE_GÉPHÁZ\\EX-57-03\\RGK6_EX5703\\RGK6_EX5703_MD-HO-VT"
+      ],
+      "ervenyes_kezdete": "2026-09-16 09:53:29",
+      "ervenyes_vege": "2026-09-16 09:53:29",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Közös légkezelő-sablon – VS, 0–160 Hz, 1600 vonal",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._PINCE_KLÍMÁK\\RGK6._PINCE_GÉPHÁZ\\EX-57-03\\RGK6_EX5703\\RGK6_EX5703_MD-HO-VS"
+      ],
+      "ervenyes_kezdete": "2026-09-16 09:53:52",
+      "ervenyes_vege": "2026-09-16 09:53:52",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Közös légkezelő-sablon – AC, 0–6400 Hz, 6400 vonal",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._PINCE_KLÍMÁK\\RGK6._PINCE_GÉPHÁZ\\EX-57-03\\RGK6_EX5703\\RGK6_EX5703_MD-HO-AC"
+      ],
+      "ervenyes_kezdete": "2026-09-16 09:54:05",
+      "ervenyes_vege": "2026-09-16 09:54:05",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Közös légkezelő-sablon – E3, 0–1000 Hz, 1600 vonal",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._PINCE_KLÍMÁK\\RGK6._PINCE_GÉPHÁZ\\EX-57-03\\RGK6_EX5703\\RGK6_EX5703_MD-HO-E3"
+      ],
+      "ervenyes_kezdete": "2026-09-16 09:54:14",
+      "ervenyes_vege": "2026-09-16 09:54:14",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S40_AH-5340\\RGK6_S40_BE\\RGK6_S40_BE_MD-HO-VT"
+      ],
+      "ervenyes_kezdete": "2026-10-05 13:28:00",
+      "ervenyes_vege": "2026-10-05 13:28:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S40_AH-5340\\RGK6_S40_BE\\RGK6_S40_BE_MD-HO-VT"
+      ],
+      "ervenyes_kezdete": "2026-10-05 09:41:00",
+      "ervenyes_vege": "2026-10-05 09:41:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S40_AH-5340\\RGK6_S40_BE\\RGK6_S40_BE_MD-HO-VS"
+      ],
+      "ervenyes_kezdete": "2026-10-05 13:28:00",
+      "ervenyes_vege": "2026-10-05 13:28:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S40_AH-5340\\RGK6_S40_BE\\RGK6_S40_BE_MD-HO-VS"
+      ],
+      "ervenyes_kezdete": "2026-10-05 09:41:00",
+      "ervenyes_vege": "2026-10-05 09:41:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S40_AH-5340\\RGK6_S40_BE\\RGK6_S40_BE_MD-HO-AC"
+      ],
+      "ervenyes_kezdete": "2026-10-05 13:29:00",
+      "ervenyes_vege": "2026-10-05 13:29:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S40_AH-5340\\RGK6_S40_BE\\RGK6_S40_BE_MD-HO-AC"
+      ],
+      "ervenyes_kezdete": "2026-10-05 09:41:00",
+      "ervenyes_vege": "2026-10-05 09:41:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S40_AH-5340\\RGK6_S40_BE\\RGK6_S40_BE_MD-HO-E3"
+      ],
+      "ervenyes_kezdete": "2026-10-05 13:29:00",
+      "ervenyes_vege": "2026-10-05 13:29:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S40_AH-5340\\RGK6_S40_BE\\RGK6_S40_BE_MD-HO-E3"
+      ],
+      "ervenyes_kezdete": "2026-10-05 09:42:00",
+      "ervenyes_vege": "2026-10-05 09:42:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S40_AH-5340\\RGK6_S40_BE\\RGK6_S40_BE_MD-HO-E2"
+      ],
+      "ervenyes_kezdete": "2026-10-05 13:30:00",
+      "ervenyes_vege": "2026-10-05 13:30:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S40_AH-5340\\RGK6_S40_BE\\RGK6_S40_BE_MD-HO-E2"
+      ],
+      "ervenyes_kezdete": "2026-10-05 09:42:00",
+      "ervenyes_vege": "2026-10-05 09:42:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S40_AH-5340\\RGK6_S40_BE\\RGK6_S40_BE-MD-HO-E4"
+      ],
+      "ervenyes_kezdete": "2026-10-05 13:30:00",
+      "ervenyes_vege": "2026-10-05 13:30:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S40_AH-5340\\RGK6_S40_BE\\RGK6_S40_BE-MD-HO-E4"
+      ],
+      "ervenyes_kezdete": "2026-10-05 09:42:00",
+      "ervenyes_vege": "2026-10-05 09:42:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._ FSZ.  KLÍMÁK\\RGK I._1.11_RECIRK\\RGK1._AHU 1.11\\AHU 1.11_VENT-VT"
+      ],
+      "ervenyes_kezdete": "2026-09-10 08:33:00",
+      "ervenyes_vege": "2026-09-10 08:33:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._ FSZ.  KLÍMÁK\\RGK I._1.11_RECIRK\\RGK1._AHU 1.11\\AHU 1.11_VENT-VS"
+      ],
+      "ervenyes_kezdete": "2026-09-10 08:34:00",
+      "ervenyes_vege": "2026-09-10 08:34:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._ FSZ.  KLÍMÁK\\RGK I._1.11_RECIRK\\RGK1._AHU 1.11\\AHU 1.11_VENT-AC"
+      ],
+      "ervenyes_kezdete": "2026-09-10 08:35:00",
+      "ervenyes_vege": "2026-09-10 08:35:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._ FSZ.  KLÍMÁK\\RGK I._1.11_RECIRK\\RGK1._AHU 1.11\\AHU 1.11_VENT-E3"
+      ],
+      "ervenyes_kezdete": "2026-09-10 08:35:00",
+      "ervenyes_vege": "2026-09-10 08:35:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._ FSZ.  KLÍMÁK\\RGK I._1.11_RECIRK\\RGK1._AHU 1.11\\AHU 1.11_MOT-VT"
+      ],
+      "ervenyes_kezdete": "2026-09-10 08:32:00",
+      "ervenyes_vege": "2026-09-10 08:32:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._ FSZ.  KLÍMÁK\\RGK I._1.11_RECIRK\\RGK1._AHU 1.11\\AHU 1.11_MOT-VS"
+      ],
+      "ervenyes_kezdete": "2026-09-10 08:33:00",
+      "ervenyes_vege": "2026-09-10 08:33:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._ FSZ.  KLÍMÁK\\RGK I._1.11_RECIRK\\RGK1._AHU 1.11\\AHU 1.11_MOT-AC"
+      ],
+      "ervenyes_kezdete": "2026-09-10 08:33:00",
+      "ervenyes_vege": "2026-09-10 08:33:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._ FSZ.  KLÍMÁK\\RGK I._1.11_RECIRK\\RGK1._AHU 1.11\\AHU 1.11_MOT-E3"
+      ],
+      "ervenyes_kezdete": "2026-09-10 08:33:00",
+      "ervenyes_vege": "2026-09-10 08:33:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.1-ELSZ_III_1.16\\KKI_L-L1.1E_III_1.18\\KKI_L-L1.1E_MN-HI-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 11:40:00",
+      "ervenyes_vege": "2026-06-20 11:40:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.1-ELSZ_III_1.16\\KKI_L-L1.1E_III_1.18\\KKI_L-L1.1E_MN-HI-VS"
+      ],
+      "ervenyes_kezdete": "2026-06-20 11:40:00",
+      "ervenyes_vege": "2026-06-20 11:40:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.1-ELSZ_III_1.16\\KKI_L-L1.1E_III_1.18\\KKI_L-L1.1E_MN-HI-AC"
+      ],
+      "ervenyes_kezdete": "2026-06-20 11:41:00",
+      "ervenyes_vege": "2026-06-20 11:41:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.1-ELSZ_III_1.16\\KKI_L-L1.1E_III_1.18\\KKI_L-L1.1E_MN-HI-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 11:41:00",
+      "ervenyes_vege": "2026-06-20 11:41:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.1-ELSZ_III_1.16\\KKI_L-L1.1E_III_1.18\\KKI_L-L1.1E_MN-HM-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 11:41:00",
+      "ervenyes_vege": "2026-06-20 11:41:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.1-ELSZ_III_1.16\\KKI_L-L1.1E_III_1.18\\KKI_L-L1.1E_MN-HM-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 11:41:00",
+      "ervenyes_vege": "2026-06-20 11:41:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.1-ELSZ_III_1.16\\KKI_L-L1.1E_III_1.18\\KKI_L-L1.1E_MD-HI-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 11:42:00",
+      "ervenyes_vege": "2026-06-20 11:42:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.1-ELSZ_III_1.16\\KKI_L-L1.1E_III_1.18\\KKI_L-L1.1E_MD-HI-VS"
+      ],
+      "ervenyes_kezdete": "2026-06-20 11:42:00",
+      "ervenyes_vege": "2026-06-20 11:42:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.1-ELSZ_III_1.16\\KKI_L-L1.1E_III_1.18\\KKI_L-L1.1E_MD-HI-AC"
+      ],
+      "ervenyes_kezdete": "2026-06-20 11:42:00",
+      "ervenyes_vege": "2026-06-20 11:42:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.1-ELSZ_III_1.16\\KKI_L-L1.1E_III_1.18\\KKI_L-L1.1E_MD-HI-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 11:43:00",
+      "ervenyes_vege": "2026-06-20 11:43:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.1-ELSZ_III_1.16\\KKI_L-L1.1E_III_1.18\\KKI_L-L1.1E_MD-HM-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 11:43:00",
+      "ervenyes_vege": "2026-06-20 11:43:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.1-ELSZ_III_1.16\\KKI_L-L1.1E_III_1.18\\KKI_L-L1.1E_MD-HM-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 11:43:00",
+      "ervenyes_vege": "2026-06-20 11:43:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.1-ELSZ_III_1.16\\KKI_L-L1.1E_III_1.18\\KKI_L-L1.1E_MD-AX-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 11:43:00",
+      "ervenyes_vege": "2026-06-20 11:43:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.1-ELSZ_III_1.16\\KKI_L-L1.1E_III_1.18\\KKI_L-L1.1E_MD-AX-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 11:44:00",
+      "ervenyes_vege": "2026-06-20 11:44:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.06\\KKI_L-L1.6E_III_1.06\\KKI_L-L1.6E_MN-HI-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:01:00",
+      "ervenyes_vege": "2026-06-20 10:01:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.06\\KKI_L-L1.6E_III_1.06\\KKI_L-L1.6E_MN-HI-VS"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:01:00",
+      "ervenyes_vege": "2026-06-20 10:01:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.06\\KKI_L-L1.6E_III_1.06\\KKI_L-L1.6E_MN-HI-AC"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:02:00",
+      "ervenyes_vege": "2026-06-20 10:02:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.06\\KKI_L-L1.6E_III_1.06\\KKI_L-L1.6E_MN-HI-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:02:00",
+      "ervenyes_vege": "2026-06-20 10:02:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.06\\KKI_L-L1.6E_III_1.06\\KKI_L-L1.6E_MN-HM-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:02:00",
+      "ervenyes_vege": "2026-06-20 10:02:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.06\\KKI_L-L1.6E_III_1.06\\KKI_L-L1.6E_MN-HM-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:02:00",
+      "ervenyes_vege": "2026-06-20 10:02:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.06\\KKI_L-L1.6E_III_1.06\\KKI_L-L1.6E_MD-HI-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:03:00",
+      "ervenyes_vege": "2026-06-20 10:03:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.06\\KKI_L-L1.6E_III_1.06\\KKI_L-L1.6E_MD-HI-VS"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:03:00",
+      "ervenyes_vege": "2026-06-20 10:03:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.06\\KKI_L-L1.6E_III_1.06\\KKI_L-L1.6E_MD-HI-AC"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:03:00",
+      "ervenyes_vege": "2026-06-20 10:03:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.06\\KKI_L-L1.6E_III_1.06\\KKI_L-L1.6E_MD-HI-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:03:00",
+      "ervenyes_vege": "2026-06-20 10:03:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.06\\KKI_L-L1.6E_III_1.06\\KKI_L-L1.6E_MD-HM-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:04:00",
+      "ervenyes_vege": "2026-06-20 10:04:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.06\\KKI_L-L1.6E_III_1.06\\KKI_L-L1.6E_MD-HM-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:04:00",
+      "ervenyes_vege": "2026-06-20 10:04:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.06\\KKI_L-L1.6E_III_1.06\\KKI_L-L1.6E_MD-AX-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:04:00",
+      "ervenyes_vege": "2026-06-20 10:04:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.06\\KKI_L-L1.6E_III_1.06\\KKI_L-L1.6E_MD-AX-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:05:00",
+      "ervenyes_vege": "2026-06-20 10:05:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.08\\KKI_L-L1.6E_III_1.08\\KKI_L-L1.6E_MN-HI-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:16:00",
+      "ervenyes_vege": "2026-06-20 10:16:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.08\\KKI_L-L1.6E_III_1.08\\KKI_L-L1.6E_MN-HI-VS"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:16:00",
+      "ervenyes_vege": "2026-06-20 10:16:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.08\\KKI_L-L1.6E_III_1.08\\KKI_L-L1.6E_MN-HI-AC"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:17:00",
+      "ervenyes_vege": "2026-06-20 10:17:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.08\\KKI_L-L1.6E_III_1.08\\KKI_L-L1.6E_MN-HI-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:17:00",
+      "ervenyes_vege": "2026-06-20 10:17:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.08\\KKI_L-L1.6E_III_1.08\\KKI_L-L1.6E_MN-HM-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:17:00",
+      "ervenyes_vege": "2026-06-20 10:17:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.08\\KKI_L-L1.6E_III_1.08\\KKI_L-L1.6E_MN-HM-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:18:00",
+      "ervenyes_vege": "2026-06-20 10:18:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.08\\KKI_L-L1.6E_III_1.08\\KKI_L-L1.6E_MD-HI-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:18:00",
+      "ervenyes_vege": "2026-06-20 10:18:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.08\\KKI_L-L1.6E_III_1.08\\KKI_L-L1.6E_MD-HI-VS"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:18:00",
+      "ervenyes_vege": "2026-06-20 10:18:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.08\\KKI_L-L1.6E_III_1.08\\KKI_L-L1.6E_MD-HI-AC"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:18:00",
+      "ervenyes_vege": "2026-06-20 10:18:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.08\\KKI_L-L1.6E_III_1.08\\KKI_L-L1.6E_MD-HI-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:19:00",
+      "ervenyes_vege": "2026-06-20 10:19:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.08\\KKI_L-L1.6E_III_1.08\\KKI_L-L1.6E_MD-HM-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:19:00",
+      "ervenyes_vege": "2026-06-20 10:19:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.08\\KKI_L-L1.6E_III_1.08\\KKI_L-L1.6E_MD-HM-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:19:00",
+      "ervenyes_vege": "2026-06-20 10:19:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.08\\KKI_L-L1.6E_III_1.08\\KKI_L-L1.6E_MD-AX-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:20:00",
+      "ervenyes_vege": "2026-06-20 10:20:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.6_ELSZ_III_1.08\\KKI_L-L1.6E_III_1.08\\KKI_L-L1.6E_MD-AX-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 10:20:00",
+      "ervenyes_vege": "2026-06-20 10:20:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.7_ELSZ_FSZ_1.12\\KKI_L-L1.7E_FSZ_1.12\\KKI_L-L1.7E_MN-HI-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 09:08:00",
+      "ervenyes_vege": "2026-06-20 09:08:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.7_ELSZ_FSZ_1.12\\KKI_L-L1.7E_FSZ_1.12\\KKI_L-L1.7E_MN-HI-VS"
+      ],
+      "ervenyes_kezdete": "2026-06-20 09:08:00",
+      "ervenyes_vege": "2026-06-20 09:08:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.7_ELSZ_FSZ_1.12\\KKI_L-L1.7E_FSZ_1.12\\KKI_L-L1.7E_MN-HI-AC"
+      ],
+      "ervenyes_kezdete": "2026-06-20 09:08:00",
+      "ervenyes_vege": "2026-06-20 09:08:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.7_ELSZ_FSZ_1.12\\KKI_L-L1.7E_FSZ_1.12\\KKI_L-L1.7E_MN-HI-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 09:09:00",
+      "ervenyes_vege": "2026-06-20 09:09:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.7_ELSZ_FSZ_1.12\\KKI_L-L1.7E_FSZ_1.12\\KKI_L-L1.7E_MN-HM-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 09:09:00",
+      "ervenyes_vege": "2026-06-20 09:09:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.7_ELSZ_FSZ_1.12\\KKI_L-L1.7E_FSZ_1.12\\KKI_L-L1.7E_MN-HM-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 09:10:00",
+      "ervenyes_vege": "2026-06-20 09:10:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.7_ELSZ_FSZ_1.12\\KKI_L-L1.7E_FSZ_1.12\\KKI_L-L1.7E_MD-HI-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 09:10:00",
+      "ervenyes_vege": "2026-06-20 09:10:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.7_ELSZ_FSZ_1.12\\KKI_L-L1.7E_FSZ_1.12\\KKI_L-L1.7E_MD-HI-VS"
+      ],
+      "ervenyes_kezdete": "2026-06-20 09:11:00",
+      "ervenyes_vege": "2026-06-20 09:11:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.7_ELSZ_FSZ_1.12\\KKI_L-L1.7E_FSZ_1.12\\KKI_L-L1.7E_MD-HI-AC"
+      ],
+      "ervenyes_kezdete": "2026-06-20 09:11:00",
+      "ervenyes_vege": "2026-06-20 09:11:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.7_ELSZ_FSZ_1.12\\KKI_L-L1.7E_FSZ_1.12\\KKI_L-L1.7E_MD-HI-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 09:11:00",
+      "ervenyes_vege": "2026-06-20 09:11:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.7_ELSZ_FSZ_1.12\\KKI_L-L1.7E_FSZ_1.12\\KKI_L-L1.7E_MD-HM-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 09:11:00",
+      "ervenyes_vege": "2026-06-20 09:11:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.7_ELSZ_FSZ_1.12\\KKI_L-L1.7E_FSZ_1.12\\KKI_L-L1.7E_MD-HM-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 09:12:00",
+      "ervenyes_vege": "2026-06-20 09:12:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.7_ELSZ_FSZ_1.12\\KKI_L-L1.7E_FSZ_1.12\\KKI_L-L1.7E_MD-AX-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 09:12:00",
+      "ervenyes_vege": "2026-06-20 09:12:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L1.7_ELSZ_FSZ_1.12\\KKI_L-L1.7E_FSZ_1.12\\KKI_L-L1.7E_MD-AX-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 09:12:00",
+      "ervenyes_vege": "2026-06-20 09:12:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.1_ELSZ_FSZ_1.03\\L-L3.1_ELSZ_FSZ_1.03\\KKI_T_BEF01_MN-HI-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:05:00",
+      "ervenyes_vege": "2026-06-20 08:05:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.1_ELSZ_FSZ_1.03\\L-L3.1_ELSZ_FSZ_1.03\\KKI_T_BEF01_MN-HI-VS"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:05:00",
+      "ervenyes_vege": "2026-06-20 08:05:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.1_ELSZ_FSZ_1.03\\L-L3.1_ELSZ_FSZ_1.03\\KKI_T_BEF01_MN-HI-AC"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:05:00",
+      "ervenyes_vege": "2026-06-20 08:05:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.1_ELSZ_FSZ_1.03\\L-L3.1_ELSZ_FSZ_1.03\\KKI_T_BEF01_MN-HI-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:05:00",
+      "ervenyes_vege": "2026-06-20 08:05:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.1_ELSZ_FSZ_1.03\\L-L3.1_ELSZ_FSZ_1.03\\KKI_T_BEF01_MN-HM-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:06:00",
+      "ervenyes_vege": "2026-06-20 08:06:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.1_ELSZ_FSZ_1.03\\L-L3.1_ELSZ_FSZ_1.03\\KKI_T_BEF01_MN-HM-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:06:00",
+      "ervenyes_vege": "2026-06-20 08:06:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.1_ELSZ_FSZ_1.03\\L-L3.1_ELSZ_FSZ_1.03\\KKI_T_BEF01_MD-HI-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:06:00",
+      "ervenyes_vege": "2026-06-20 08:06:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.1_ELSZ_FSZ_1.03\\L-L3.1_ELSZ_FSZ_1.03\\KKI_T_BEF01_MD-HI-VS"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:07:00",
+      "ervenyes_vege": "2026-06-20 08:07:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.1_ELSZ_FSZ_1.03\\L-L3.1_ELSZ_FSZ_1.03\\KKI_T_BEF01_MD-HI-AC"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:07:00",
+      "ervenyes_vege": "2026-06-20 08:07:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.1_ELSZ_FSZ_1.03\\L-L3.1_ELSZ_FSZ_1.03\\KKI_T_BEF01_MD-HI-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:07:00",
+      "ervenyes_vege": "2026-06-20 08:07:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.1_ELSZ_FSZ_1.03\\L-L3.1_ELSZ_FSZ_1.03\\KKI_T_BEF01_MD-HM-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:07:00",
+      "ervenyes_vege": "2026-06-20 08:07:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.1_ELSZ_FSZ_1.03\\L-L3.1_ELSZ_FSZ_1.03\\KKI_T_BEF01_MD-HM-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:08:00",
+      "ervenyes_vege": "2026-06-20 08:08:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.1_ELSZ_FSZ_1.03\\L-L3.1_ELSZ_FSZ_1.03\\KKI_T_BEF01_MD-AX-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:08:00",
+      "ervenyes_vege": "2026-06-20 08:08:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.1_ELSZ_FSZ_1.03\\L-L3.1_ELSZ_FSZ_1.03\\KKI_T_BEF01_MD-AX-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:09:00",
+      "ervenyes_vege": "2026-06-20 08:09:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.3_ELSZIVO\\KKI_L3.3_ELSZIVO\\KKI_T_ELSZ1_MN-HI-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:03:00",
+      "ervenyes_vege": "2026-06-20 08:03:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.3_ELSZIVO\\KKI_L3.3_ELSZIVO\\KKI_T_ELSZ1_MN-HI-VS"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:04:00",
+      "ervenyes_vege": "2026-06-20 08:04:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.3_ELSZIVO\\KKI_L3.3_ELSZIVO\\KKI_T_ELSZ1_MN-HI-AC"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:04:00",
+      "ervenyes_vege": "2026-06-20 08:04:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.3_ELSZIVO\\KKI_L3.3_ELSZIVO\\KKI_T_ELSZ1_MN-HI-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:04:00",
+      "ervenyes_vege": "2026-06-20 08:04:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.3_ELSZIVO\\KKI_L3.3_ELSZIVO\\KKI_T_ELSZ1_MN-HM-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:04:00",
+      "ervenyes_vege": "2026-06-20 08:04:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.3_ELSZIVO\\KKI_L3.3_ELSZIVO\\KKI_T_ELSZ1_MN-HM-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:05:00",
+      "ervenyes_vege": "2026-06-20 08:05:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.3_ELSZIVO\\KKI_L3.3_ELSZIVO\\KKI_T_ELSZ1_MD-HI-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:05:00",
+      "ervenyes_vege": "2026-06-20 08:05:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.3_ELSZIVO\\KKI_L3.3_ELSZIVO\\KKI_T_ELSZ1_MD-HI-VS"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:06:00",
+      "ervenyes_vege": "2026-06-20 08:06:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.3_ELSZIVO\\KKI_L3.3_ELSZIVO\\KKI_T_ELSZ1_MD-HI-AC"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:06:00",
+      "ervenyes_vege": "2026-06-20 08:06:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.3_ELSZIVO\\KKI_L3.3_ELSZIVO\\KKI_T_ELSZ1_MD-HI-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:06:00",
+      "ervenyes_vege": "2026-06-20 08:06:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.3_ELSZIVO\\KKI_L3.3_ELSZIVO\\KKI_T_ELSZ1_MD-HM-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:06:00",
+      "ervenyes_vege": "2026-06-20 08:06:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.3_ELSZIVO\\KKI_L3.3_ELSZIVO\\KKI_T_ELSZ1_MD-HM-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:06:00",
+      "ervenyes_vege": "2026-06-20 08:06:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.3_ELSZIVO\\KKI_L3.3_ELSZIVO\\KKI_T_ELSZ1_MD-AX-VT"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:07:00",
+      "ervenyes_vege": "2026-06-20 08:07:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\KKI\\KKI_LÉGKEZELÖK\\KKI_TETÖ_VENTILATOR\\L-L3.3_ELSZIVO\\KKI_L3.3_ELSZIVO\\KKI_T_ELSZ1_MD-AX-E3"
+      ],
+      "ervenyes_kezdete": "2026-06-20 08:07:00",
+      "ervenyes_vege": "2026-06-20 08:07:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK II. KLÍMAGÉPEK\\RGK II._4.EM. KLÍMÁK\\RGK2_4.EM_LIFTAKNA\\RGK2_HK-21.3_BEFUVO\\HK-21.3 BEFÚVÓ\\HK-21.3B-MOTOR-VT"
+      ],
+      "ervenyes_kezdete": "2026-07-13 10:05:00",
+      "ervenyes_vege": "2026-07-13 10:05:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK II. KLÍMAGÉPEK\\RGK II._4.EM. KLÍMÁK\\RGK2_4.EM_LIFTAKNA\\RGK2_HK-21.3_BEFUVO\\HK-21.3 BEFÚVÓ\\HK-21.3B-MOTOR-VT"
+      ],
+      "ervenyes_kezdete": "2026-04-13 10:18:00",
+      "ervenyes_vege": "2026-04-13 10:18:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK II. KLÍMAGÉPEK\\RGK II._4.EM. KLÍMÁK\\RGK2_4.EM_LIFTAKNA\\RGK2_HK-21.3_BEFUVO\\HK-21.3 BEFÚVÓ\\HK-21.3B-MOTOR-VS"
+      ],
+      "ervenyes_kezdete": "2026-07-13 10:05:00",
+      "ervenyes_vege": "2026-07-13 10:05:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK II. KLÍMAGÉPEK\\RGK II._4.EM. KLÍMÁK\\RGK2_4.EM_LIFTAKNA\\RGK2_HK-21.3_BEFUVO\\HK-21.3 BEFÚVÓ\\HK-21.3B-MOTOR-AC"
+      ],
+      "ervenyes_kezdete": "2026-07-13 10:06:00",
+      "ervenyes_vege": "2026-07-13 10:06:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK II. KLÍMAGÉPEK\\RGK II._4.EM. KLÍMÁK\\RGK2_4.EM_LIFTAKNA\\RGK2_HK-21.3_BEFUVO\\HK-21.3 BEFÚVÓ\\HK-21.3B-MOTOR-AC"
+      ],
+      "ervenyes_kezdete": "2026-04-13 10:19:00",
+      "ervenyes_vege": "2026-04-13 10:19:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK II. KLÍMAGÉPEK\\RGK II._4.EM. KLÍMÁK\\RGK2_4.EM_LIFTAKNA\\RGK2_HK-21.3_BEFUVO\\HK-21.3 BEFÚVÓ\\HK-21.3B-MOTOR-E3"
+      ],
+      "ervenyes_kezdete": "2026-07-13 10:06:00",
+      "ervenyes_vege": "2026-07-13 10:06:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK II. KLÍMAGÉPEK\\RGK II._4.EM. KLÍMÁK\\RGK2_4.EM_LIFTAKNA\\RGK2_HK-21.3_BEFUVO\\HK-21.3 BEFÚVÓ\\HK-21.3B-MOTOR-E3"
+      ],
+      "ervenyes_kezdete": "2026-04-13 10:19:00",
+      "ervenyes_vege": "2026-04-13 10:19:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._2.EM. KLÍMÁK\\RGK I._1.6_RECIRK\\RGK1._1.6 RECIRK\\1.6 R_MOTOR-VT"
+      ],
+      "ervenyes_kezdete": "2026-08-31 10:46:00",
+      "ervenyes_vege": "2026-08-31 10:46:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._2.EM. KLÍMÁK\\RGK I._1.6_RECIRK\\RGK1._1.6 RECIRK\\1.6 R_MOTOR-VS"
+      ],
+      "ervenyes_kezdete": "2026-08-31 10:47:00",
+      "ervenyes_vege": "2026-08-31 10:47:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._2.EM. KLÍMÁK\\RGK I._1.6_RECIRK\\RGK1._1.6 RECIRK\\1.6 R_MOTOR-AC"
+      ],
+      "ervenyes_kezdete": "2026-08-31 10:47:00",
+      "ervenyes_vege": "2026-08-31 10:47:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._2.EM. KLÍMÁK\\RGK I._1.6_RECIRK\\RGK1._1.6 RECIRK\\1.6 R_MOTOR-E3"
+      ],
+      "ervenyes_kezdete": "2026-08-31 10:47:00",
+      "ervenyes_vege": "2026-08-31 10:47:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._2.EM. KLÍMÁK\\RGK I._1.6_RECIRK\\RGK1._1.6 RECIRK\\1.6 R_VENTILATOR-AC"
+      ],
+      "ervenyes_kezdete": "2026-08-31 10:48:00",
+      "ervenyes_vege": "2026-08-31 10:48:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._2.EM. KLÍMÁK\\RGK I._1.6_RECIRK\\RGK1._1.6 RECIRK\\1.6 R_VENTILATOR-E3"
+      ],
+      "ervenyes_kezdete": "2026-08-31 10:48:00",
+      "ervenyes_vege": "2026-08-31 10:48:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._2.EM. KLÍMÁK\\RGK I._1.6_RECIRK\\RGK1._1.6 RECIRK\\1.6 R_VENTILATOR-VS"
+      ],
+      "ervenyes_kezdete": "2026-08-31 10:48:00",
+      "ervenyes_vege": "2026-08-31 10:48:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._2.EM. KLÍMÁK\\RGK I._1.6_RECIRK\\RGK1._1.6 RECIRK\\1.6 R_VENTILATOR-VT"
+      ],
+      "ervenyes_kezdete": "2026-08-31 10:49:00",
+      "ervenyes_vege": "2026-08-31 10:49:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._4.EM. KLÍMÁK\\RGK I._L-19_BEFUVO\\L-19-es BEFUVÁS\\L-19_MOTOR-VT"
+      ],
+      "ervenyes_kezdete": "2026-09-04 10:11:00",
+      "ervenyes_vege": "2026-09-04 10:11:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._4.EM. KLÍMÁK\\RGK I._L-19_BEFUVO\\L-19-es BEFUVÁS\\L-19_MOTOR-VS"
+      ],
+      "ervenyes_kezdete": "2026-09-04 10:12:00",
+      "ervenyes_vege": "2026-09-04 10:12:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._4.EM. KLÍMÁK\\RGK I._L-19_BEFUVO\\L-19-es BEFUVÁS\\L-19_MOTOR-AC"
+      ],
+      "ervenyes_kezdete": "2026-09-04 10:12:00",
+      "ervenyes_vege": "2026-09-04 10:12:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._4.EM. KLÍMÁK\\RGK I._L-19_BEFUVO\\L-19-es BEFUVÁS\\L-19_MOTOR-E3"
+      ],
+      "ervenyes_kezdete": "2026-09-04 10:12:00",
+      "ervenyes_vege": "2026-09-04 10:12:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._4.EM. KLÍMÁK\\RGK I._L-19_BEFUVO\\L-19-es BEFUVÁS\\L-19_VENTILATOR-VT"
+      ],
+      "ervenyes_kezdete": "2026-09-04 10:12:00",
+      "ervenyes_vege": "2026-09-04 10:12:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._4.EM. KLÍMÁK\\RGK I._L-19_BEFUVO\\L-19-es BEFUVÁS\\L-19_VENTILATOR-VS"
+      ],
+      "ervenyes_kezdete": "2026-09-04 10:12:00",
+      "ervenyes_vege": "2026-09-04 10:12:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._4.EM. KLÍMÁK\\RGK I._L-19_BEFUVO\\L-19-es BEFUVÁS\\L-19_VENTILATOR-AC"
+      ],
+      "ervenyes_kezdete": "2026-09-04 10:12:00",
+      "ervenyes_vege": "2026-09-04 10:12:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._4.EM. KLÍMÁK\\RGK I._L-19_BEFUVO\\L-19-es BEFUVÁS\\L-19_VENTILATOR-E3"
+      ],
+      "ervenyes_kezdete": "2026-09-04 10:13:00",
+      "ervenyes_vege": "2026-09-04 10:13:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._5.EM. KLÍMÁK\\RGK I._L-8_BEFUVO\\L-8-as BEFUVÁS***\\L-8_MOTOR-VT"
+      ],
+      "ervenyes_kezdete": "2026-09-04 10:05:00",
+      "ervenyes_vege": "2026-09-04 10:05:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._5.EM. KLÍMÁK\\RGK I._L-8_BEFUVO\\L-8-as BEFUVÁS***\\L-8_MOTOR-VS"
+      ],
+      "ervenyes_kezdete": "2026-09-04 10:05:00",
+      "ervenyes_vege": "2026-09-04 10:05:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._5.EM. KLÍMÁK\\RGK I._L-8_BEFUVO\\L-8-as BEFUVÁS***\\L-8_MOTOR-AC"
+      ],
+      "ervenyes_kezdete": "2026-09-04 10:06:00",
+      "ervenyes_vege": "2026-09-04 10:06:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._5.EM. KLÍMÁK\\RGK I._L-8_BEFUVO\\L-8-as BEFUVÁS***\\L-8_MOTOR-E3"
+      ],
+      "ervenyes_kezdete": "2026-09-04 10:06:00",
+      "ervenyes_vege": "2026-09-04 10:06:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._5.EM. KLÍMÁK\\RGK I._L-8_BEFUVO\\L-8-as BEFUVÁS***\\L-8_VENTILATOR-VT"
+      ],
+      "ervenyes_kezdete": "2026-09-04 10:06:00",
+      "ervenyes_vege": "2026-09-04 10:06:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._5.EM. KLÍMÁK\\RGK I._L-8_BEFUVO\\L-8-as BEFUVÁS***\\L-8_VENTILATOR-VS"
+      ],
+      "ervenyes_kezdete": "2026-09-04 10:07:00",
+      "ervenyes_vege": "2026-09-04 10:07:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._5.EM. KLÍMÁK\\RGK I._L-8_BEFUVO\\L-8-as BEFUVÁS***\\L-8_VENTILATOR-AC"
+      ],
+      "ervenyes_kezdete": "2026-09-04 10:07:00",
+      "ervenyes_vege": "2026-09-04 10:07:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._5.EM. KLÍMÁK\\RGK I._L-8_BEFUVO\\L-8-as BEFUVÁS***\\L-8_VENTILATOR-E3"
+      ],
+      "ervenyes_kezdete": "2026-09-04 10:07:00",
+      "ervenyes_vege": "2026-09-04 10:07:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._5.EM. KLÍMÁK\\RGK I._L-15_BEFUVO\\L-15-ös BEFUVÁS***\\L-15_MOTOR-VT"
+      ],
+      "ervenyes_kezdete": "2026-09-04 09:55:00",
+      "ervenyes_vege": "2026-09-04 09:55:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._5.EM. KLÍMÁK\\RGK I._L-15_BEFUVO\\L-15-ös BEFUVÁS***\\L-15_MOTOR-VS"
+      ],
+      "ervenyes_kezdete": "2026-09-04 09:56:00",
+      "ervenyes_vege": "2026-09-04 09:56:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._5.EM. KLÍMÁK\\RGK I._L-15_BEFUVO\\L-15-ös BEFUVÁS***\\L-15_MOTOR-AC"
+      ],
+      "ervenyes_kezdete": "2026-09-04 09:56:00",
+      "ervenyes_vege": "2026-09-04 09:56:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK I.-IV.\\ELLATO RENDSZEREK\\KLÍMÁK/ LÉGKEZELÖK\\RGK I. KLÍMAGÉPEK\\RGK I._5.EM. KLÍMÁK\\RGK I._L-15_BEFUVO\\L-15-ös BEFUVÁS***\\L-15_MOTOR-E3"
+      ],
+      "ervenyes_kezdete": "2026-09-04 09:56:00",
+      "ervenyes_vege": "2026-09-04 09:56:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S102_AH-53-102\\RGK6_S102_BE\\RGK6_S102_B_MD-HO-VT"
+      ],
+      "ervenyes_kezdete": "2026-10-15 08:12:00",
+      "ervenyes_vege": "2026-10-15 08:12:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S102_AH-53-102\\RGK6_S102_BE\\RGK6_S102_B_MD-HO-VT"
+      ],
+      "ervenyes_kezdete": "2026-07-17 07:31:00",
+      "ervenyes_vege": "2026-07-17 07:31:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S102_AH-53-102\\RGK6_S102_BE\\RGK6_S102_B_MD-HO-VS"
+      ],
+      "ervenyes_kezdete": "2026-10-15 08:12:00",
+      "ervenyes_vege": "2026-10-15 08:12:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S102_AH-53-102\\RGK6_S102_BE\\RGK6_S102_B_MD-HO-VS"
+      ],
+      "ervenyes_kezdete": "2026-07-17 07:32:00",
+      "ervenyes_vege": "2026-07-17 07:32:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S102_AH-53-102\\RGK6_S102_BE\\RGK6_S102_B_MD-HO-AC"
+      ],
+      "ervenyes_kezdete": "2026-10-15 08:13:00",
+      "ervenyes_vege": "2026-10-15 08:13:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S102_AH-53-102\\RGK6_S102_BE\\RGK6_S102_B_MD-HO-AC"
+      ],
+      "ervenyes_kezdete": "2026-07-17 07:32:00",
+      "ervenyes_vege": "2026-07-17 07:32:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S102_AH-53-102\\RGK6_S102_BE\\RGK6_S102_B_MD-HO-E3"
+      ],
+      "ervenyes_kezdete": "2026-10-15 08:13:00",
+      "ervenyes_vege": "2026-10-15 08:13:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S102_AH-53-102\\RGK6_S102_BE\\RGK6_S102_B_MD-HO-E3"
+      ],
+      "ervenyes_kezdete": "2026-07-17 07:32:00",
+      "ervenyes_vege": "2026-07-17 07:32:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S102_AH-53-102\\RGK6_S102_BE\\RGK6_S102_B_MD-HO-E2"
+      ],
+      "ervenyes_kezdete": "2026-10-15 08:13:00",
+      "ervenyes_vege": "2026-10-15 08:13:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S102_AH-53-102\\RGK6_S102_BE\\RGK6_S102_B_MD-HO-E2"
+      ],
+      "ervenyes_kezdete": "2026-07-17 07:32:00",
+      "ervenyes_vege": "2026-07-17 07:32:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S102_AH-53-102\\RGK6_S102_BE\\RGK6_S102_B-MD-HO-E4"
+      ],
+      "ervenyes_kezdete": "2026-10-15 08:13:00",
+      "ervenyes_vege": "2026-10-15 08:13:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  1.\\S102_AH-53-102\\RGK6_S102_BE\\RGK6_S102_B-MD-HO-E4"
+      ],
+      "ervenyes_kezdete": "2026-07-17 07:32:00",
+      "ervenyes_vege": "2026-07-17 07:32:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  2.\\S106_AH-52-106\\RGK6_S106_BEF\\RGK6_S106BE_MD-HO-VT"
+      ],
+      "ervenyes_kezdete": "2026-10-15 08:02:00",
+      "ervenyes_vege": "2026-10-15 08:02:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  2.\\S106_AH-52-106\\RGK6_S106_BEF\\RGK6_S106BE_MD-HO-VT"
+      ],
+      "ervenyes_kezdete": "2026-07-17 07:26:00",
+      "ervenyes_vege": "2026-07-17 07:26:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  2.\\S106_AH-52-106\\RGK6_S106_BEF\\RGK6_S106BE_MD-HO-VS"
+      ],
+      "ervenyes_kezdete": "2026-10-15 08:03:00",
+      "ervenyes_vege": "2026-10-15 08:03:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  2.\\S106_AH-52-106\\RGK6_S106_BEF\\RGK6_S106BE_MD-HO-VS"
+      ],
+      "ervenyes_kezdete": "2026-07-17 07:26:00",
+      "ervenyes_vege": "2026-07-17 07:26:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  2.\\S106_AH-52-106\\RGK6_S106_BEF\\RGK6_S106BE_MD-HO-AC"
+      ],
+      "ervenyes_kezdete": "2026-10-15 08:03:00",
+      "ervenyes_vege": "2026-10-15 08:03:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  2.\\S106_AH-52-106\\RGK6_S106_BEF\\RGK6_S106BE_MD-HO-AC"
+      ],
+      "ervenyes_kezdete": "2026-07-17 07:26:00",
+      "ervenyes_vege": "2026-07-17 07:26:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  2.\\S106_AH-52-106\\RGK6_S106_BEF\\RGK6_S106BE_MD-HO-E3"
+      ],
+      "ervenyes_kezdete": "2026-10-15 08:03:00",
+      "ervenyes_vege": "2026-10-15 08:03:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  2.\\S106_AH-52-106\\RGK6_S106_BEF\\RGK6_S106BE_MD-HO-E3"
+      ],
+      "ervenyes_kezdete": "2026-07-17 07:27:00",
+      "ervenyes_vege": "2026-07-17 07:27:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  2.\\S106_AH-52-106\\RGK6_S106_BEF\\RGK6_S106BE_MD-HO-E2"
+      ],
+      "ervenyes_kezdete": "2026-10-15 08:03:00",
+      "ervenyes_vege": "2026-10-15 08:03:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  2.\\S106_AH-52-106\\RGK6_S106_BEF\\RGK6_S106BE_MD-HO-E2"
+      ],
+      "ervenyes_kezdete": "2026-07-17 07:27:00",
+      "ervenyes_vege": "2026-07-17 07:27:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  2.\\S106_AH-52-106\\RGK6_S106_BEF\\RGK6_S106BE-MD-HO-E4"
+      ],
+      "ervenyes_kezdete": "2026-10-15 08:03:00",
+      "ervenyes_vege": "2026-10-15 08:03:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    },
+    {
+      "nev": "Igazolt légkezelőskála – mindkét végpont, Hz",
+      "utvonal_tartalmazza": [
+        "\\Hierarchy\\RGK 6.\\RGK 6. - KLÍMAGÉPEK\\Új mérések (2023tól)\\RGK6._3.EM._KLÍMÁK\\KLÍMAGÉPHÁZ  2.\\S106_AH-52-106\\RGK6_S106_BEF\\RGK6_S106BE-MD-HO-E4"
+      ],
+      "ervenyes_kezdete": "2026-07-17 07:27:00",
+      "ervenyes_vege": "2026-07-17 07:27:00",
+      "ertekek": {
+        "frekvenciaegyseg": "Hz",
+        "kezdo_frekvencia_hz": 0,
+        "vegpontok": "ket_vegpont",
+        "skala_ellenorzott": true
+      }
+    }
+  ],
+  "csucskereses": {
+    "frekvencia_tures_szazalek": 1.5,
+    "minimum_hatter_arany": 3.0,
+    "minimum_relativ_amplitudo": 0.005
+  }
+}
