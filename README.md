@@ -1,0 +1,2 @@
+# Rezgesdiagnosztika-MI-kiertekeles
+Rezgésdiagnosztika alkalmazása forgógépek állapotfelügyeletében mesterséges intelligencia alapú kiértékeléssel
