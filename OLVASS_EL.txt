@@ -60,7 +60,7 @@ Ha csak a számított értékekre van szükséged, így indítsd a feldolgozást
 A légkezelőmodell tanítása előtt készítsd elő az igazolt mérési alkalmakat az
 5. pont szerint. A tanítást ezután a következő paranccsal indíthatod.
 
-    python src\alkalmi_mi.py tanitas --geptipus legkezelo
+    python src\alkalmi_mi.py tanitas
 
 A program gépenként különíti el az adatokat. Ehhez a hibás és a megfelelő
 állapothoz is legalább három külön gép és érvényes felosztás szükséges.
